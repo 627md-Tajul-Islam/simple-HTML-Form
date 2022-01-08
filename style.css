@@ -23,3 +23,19 @@
 .dynamic{
     border: 1px solid black;
 }
+
+.container div {
+    display: inline-block;
+    padding: 20px;
+  }
+  div.left {
+   
+}
+
+div.right{
+   
+}
+
+.container{
+
+}
