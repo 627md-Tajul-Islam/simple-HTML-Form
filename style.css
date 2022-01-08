@@ -23,10 +23,16 @@
 .dynamic{
     border: 1px solid black;
 }
-.times{
-   margin: 30px;
-}
+
 .left{
+    float:left; 
+    width:30%;
+}
+.middle{
+    float:left; 
+    width:30%;
+}
+.right{
     float:left; 
     width:30%;
 }
