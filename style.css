@@ -2,4 +2,24 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    font-size:20px;
+}
+.float_childs {
+    width: 50%;
+    float: left;
+    padding: 20px;
+}
+.float_child{
+    float: left;
+    padding: 20px;
+}
+.day_date{
+    width: 30%;
+}
+.location{
+    width: 70%;
+}
+.dynamic{
+    border: 1px solid black;
 }
